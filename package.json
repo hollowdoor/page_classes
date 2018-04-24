@@ -1,0 +1,32 @@
+{
+  "name": "page-classes",
+  "version": "1.0.0",
+  "description": "File system control",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pages",
+    "fs",
+    "input",
+    "output"
+  ],
+  "author": "Quentin Engles <hollowdoor99@gmail.com> (https://hollowdoor.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "globby": "^8.0.1",
+    "mime-types": "^2.1.18"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollowdoor/page_classes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hollowdoor/page_classes/issues"
+  },
+  "homepage": "https://github.com/hollowdoor/page_classes#readme"
+}
